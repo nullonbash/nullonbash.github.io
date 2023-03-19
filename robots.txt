@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://nullonbash.github.io/sitemap.xml
